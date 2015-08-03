@@ -12,3 +12,4 @@
 * [PowerDataSolutions](http://www.powerdatasolutions.org/)
 * [Cherryland Software](http://cherrylandsoftware.com/)
 * [Phoenix Learning](http://phoenixlearning.com/)
+* [Nicktech.org](http://nicktech.org/powerschool)
