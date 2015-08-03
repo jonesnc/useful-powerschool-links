@@ -6,3 +6,9 @@
 
 ## API
 * [API Docs](https://support.powerschool.com/developer/)
+
+## Customizations
+* [PowerSource Exchange](https://support.powerschool.com/exchange/main.action)
+* [PowerDataSolutions](http://www.powerdatasolutions.org/)
+* [Cherryland Software](http://cherrylandsoftware.com/)
+* [Phoenix Learning](http://phoenixlearning.com/)
