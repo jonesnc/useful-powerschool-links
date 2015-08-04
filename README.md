@@ -4,8 +4,12 @@
 * [PowerSchool 9.0 Frequently Asked Questions](https://support.powerschool.com/d/74704)
 * [Getting Ready for Parent Single Sign-On (SSO)](https://support.powerschool.com/article/73902)
 
-## API
+## Documentation
+### API
 * [API Docs](https://support.powerschool.com/developer/)
+
+### Data Access Tags
+* [Data Access Tags Supplement for PowerSchool 9.x](https://support.powerschool.com/article/55742)
 
 ## Customizations
 * [PowerSource Exchange](https://support.powerschool.com/exchange/main.action)
