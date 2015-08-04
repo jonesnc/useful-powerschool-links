@@ -31,6 +31,10 @@
 * [PowerSchool hourly, nightly, weekly, and monthly processes](https://support.powerschool.com/article/62796)
 
 ## Customizations
+### Must-Have Customizations
+* [Custom Legacy Field Inspector - Extension Migration](https://support.powerschool.com/exchange/view.action?download.id=746)
+
+### Repositories
 * [PowerSource Exchange](https://support.powerschool.com/exchange/main.action)
 * [PowerDataSolutions](http://www.powerdatasolutions.org/)
 * [Cherryland Software](http://cherrylandsoftware.com/)
