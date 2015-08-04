@@ -22,6 +22,10 @@
 * [Importing a Data Pump - File Errors](https://support.powerschool.com/article/57612)
 * [Oracle Terms and Definitions](https://support.powerschool.com/d/oracle_terms_and_definitions)
 * [How to Start and Shutdown an Oracle instance](https://support.powerschool.com/article/56196)
+* [Flashback Database Recovery - How it works](https://support.powerschool.com/article/55364)
+* [Managing the Flash Recovery Area](https://powersource.pearsonschoolsystems.com/d/managing_the_flash_recovery_area)
+* [Managing the Flashback retention target](https://powersource.pearsonschoolsystems.com/d/managing_the_flashback_retention_target)
+* [How to check if Flashback is on (Oracle)](https://powersource.pearsonschoolsystems.com/d/how_to_check_if_flashback_is_on_oracle)
 
 ### PSHTML tags
 * [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
