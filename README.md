@@ -12,6 +12,9 @@
 * [Data Access Tags Supplement for PowerSchool 9.x](https://support.powerschool.com/article/55742)
 * [How to use the *tests* Data Access Tag](https://support.powerschool.com/article/5982?from=search)
 
+### Misc
+* [PowerSchool Glossary](https://support.powerschool.com/article/55076)
+
 ## Customizations
 * [PowerSource Exchange](https://support.powerschool.com/exchange/main.action)
 * [PowerDataSolutions](http://www.powerdatasolutions.org/)
