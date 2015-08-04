@@ -13,6 +13,9 @@
 * [How to use the *tests* Data Access Tag](https://support.powerschool.com/article/5982?from=search)
 * [If/Then and Decode logic](https://support.powerschool.com/article/6108)
 
+### ~[tlist_sql]
+* [How to enable expanded TLIST commands](https://support.powerschool.com/article/55553)
+
 ### Misc
 * [PowerSchool Glossary](https://support.powerschool.com/article/55076)
 
