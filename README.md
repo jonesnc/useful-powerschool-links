@@ -25,6 +25,7 @@
 
 ### Misc
 * [PowerSchool Glossary](https://support.powerschool.com/article/55076)
+* [Various Student Search Commands](https://support.powerschool.com/article/7671)
 
 ## Customizations
 * [PowerSource Exchange](https://support.powerschool.com/exchange/main.action)
