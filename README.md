@@ -20,6 +20,7 @@
 ### Oracle
 * [Check Which Version Of Oracle Is Installed](https://support.powerschool.com/article/74713)
 * [Importing a Data Pump - File Errors](https://support.powerschool.com/article/57612)
+* [Oracle Terms and Definitions](https://support.powerschool.com/d/oracle_terms_and_definitions)
 
 ### PSHTML tags
 * [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
