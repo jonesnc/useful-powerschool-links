@@ -26,6 +26,7 @@
 * [Managing the Flash Recovery Area](https://powersource.pearsonschoolsystems.com/d/managing_the_flash_recovery_area)
 * [Managing the Flashback retention target](https://powersource.pearsonschoolsystems.com/d/managing_the_flashback_retention_target)
 * [How to check if Flashback is on](https://powersource.pearsonschoolsystems.com/d/how_to_check_if_flashback_is_on_oracle)
+* [How to Change Oracle User Account Passwords](https://support.powerschool.com/article/55006)
 
 ### PSHTML tags
 * [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
