@@ -14,3 +14,6 @@
 * [Phoenix Learning](http://phoenixlearning.com/)
 * [Nicktech](http://nicktech.org/powerschool)
 * [SIS Resources](http://sisresources.com/)
+
+## Misc
+* [How To Setup a PowerSchool Test Server 8.x and 9.x](https://support.powerschool.com/article/64609)
