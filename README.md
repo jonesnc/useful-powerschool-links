@@ -27,6 +27,7 @@
 ### Misc
 * [PowerSchool Glossary](https://support.powerschool.com/article/55076)
 * [Various Student Search Commands](https://support.powerschool.com/article/7671)
+* [PowerSchool hourly, nightly, weekly, and monthly processes](https://support.powerschool.com/article/62796)
 
 ## Customizations
 * [PowerSource Exchange](https://support.powerschool.com/exchange/main.action)
