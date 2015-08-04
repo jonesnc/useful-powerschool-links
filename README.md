@@ -18,6 +18,7 @@
 
 ### Oracle
 * [Check Which Version Of Oracle Is Installed](https://support.powerschool.com/article/74713)
+* [Importing a Data Pump - File Errors](https://support.powerschool.com/article/57612)
 
 ### PSHTML tags
 * [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
