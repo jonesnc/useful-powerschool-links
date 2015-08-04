@@ -18,8 +18,6 @@
 
 ### PSHTML tags
 * [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
-
-### ~[tlist_sql]
 * [How to enable expanded TLIST commands](https://support.powerschool.com/article/55553)
 
 ### Misc
