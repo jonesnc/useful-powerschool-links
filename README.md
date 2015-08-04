@@ -16,6 +16,9 @@
 ### Database Extensions (Extended Schema)
 * [Database Extensions Advanced User Guide for PowerSchool 9.x](https://support.powerschool.com/article/74828)
 
+### Oracle
+* [Check Which Version Of Oracle Is Installed](https://support.powerschool.com/article/74713)
+
 ### PSHTML tags
 * [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
 * [How to enable expanded TLIST commands](https://support.powerschool.com/article/55553)
