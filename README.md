@@ -13,6 +13,12 @@
 * [How to use the *tests* Data Access Tag](https://support.powerschool.com/article/5982?from=search)
 * [If/Then and Decode logic](https://support.powerschool.com/article/6108)
 
+### Database Extensions (Extended Schema)
+* [Database Extensions Advanced User Guide for PowerSchool 9.x](https://support.powerschool.com/article/74828)
+
+### PSHTML tags
+* [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
+
 ### ~[tlist_sql]
 * [How to enable expanded TLIST commands](https://support.powerschool.com/article/55553)
 
