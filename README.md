@@ -10,7 +10,7 @@
 
 ### Data Access Tags
 * [Data Access Tags Supplement for PowerSchool 9.x](https://support.powerschool.com/article/55742)
-* [How to use the *tests* Data Access Tag](https://support.powerschool.com/article/5982?from=search)
+* [How to use the *tests* Data Access Tag](https://support.powerschool.com/article/5982)
 * [If/Then and Decode logic](https://support.powerschool.com/article/6108)
 * [stored.by.course.number](https://support.powerschool.com/article/6373)
 
@@ -21,6 +21,7 @@
 * [Check Which Version Of Oracle Is Installed](https://support.powerschool.com/article/74713)
 * [Importing a Data Pump - File Errors](https://support.powerschool.com/article/57612)
 * [Oracle Terms and Definitions](https://support.powerschool.com/d/oracle_terms_and_definitions)
+* [How to Start and Shutdown an Oracle instance](https://support.powerschool.com/article/56196)
 
 ### PSHTML tags
 * [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
