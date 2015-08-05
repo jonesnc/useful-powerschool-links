@@ -17,6 +17,10 @@
 * [If/Then and Decode logic](https://support.powerschool.com/article/6108)
 * [stored.by.course.number](https://support.powerschool.com/article/6373)
 
+### Data Dictionaries
+* [PowerSchool 9.x Data Dictionaries](https://support.powerschool.com/dir/8778)
+* [Data Dictionary for PowerTeacher Gradebook 2.8](https://support.powerschool.com/article/71971)
+
 ### Database Extensions (Extended Schema)
 * [Database Extensions Advanced User Guide for PowerSchool 9.x](https://support.powerschool.com/article/74828)
 
