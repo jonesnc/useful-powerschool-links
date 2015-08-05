@@ -5,8 +5,9 @@
 * [Getting Ready for Parent Single Sign-On (SSO)](https://support.powerschool.com/article/73902)
 
 ## Documentation
-### 9.0 Guides
+### Guides
 * [PS_CustomFields API Guide for PowerSchool 9.x](https://support.powerschool.com/article/74827)
+* [PowerSchool 9.x Installation and Configuration Guides](https://support.powerschool.com/dir/8779)
 
 ### API
 * [API Docs](https://support.powerschool.com/developer/)
