@@ -30,6 +30,7 @@
 * [Importing a Data Pump - File Errors](https://support.powerschool.com/article/57612)
 * [Oracle Terms and Definitions](https://support.powerschool.com/d/oracle_terms_and_definitions)
 * [How to Start and Shutdown an Oracle instance](https://support.powerschool.com/article/56196)
+* [Oracle Database Backup and Restore Guide for PowerSchool 9.x](https://support.powerschool.com/article/74823)
 * [Flashback Database Recovery - How it works](https://support.powerschool.com/article/55364)
 * [Managing the Flash Recovery Area](https://support.powerschool.com/d/managing_the_flash_recovery_area)
 * [Managing the Flashback retention target](https://support.powerschool.com/d/managing_the_flashback_retention_target)
