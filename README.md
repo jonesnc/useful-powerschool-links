@@ -36,6 +36,7 @@
 * [PowerSchool Glossary](https://support.powerschool.com/article/55076)
 * [Various Student Search Commands](https://support.powerschool.com/article/7671)
 * [PowerSchool hourly, nightly, weekly, and monthly processes](https://support.powerschool.com/article/62796)
+* [How it Works: HTMLT, HTMLR, HTMLE](https://support.powerschool.com/article/73592)
 
 ## Customizations
 ### Must-Have Customizations
