@@ -45,6 +45,7 @@
 * [Various Student Search Commands](https://support.powerschool.com/article/7671)
 * [PowerSchool hourly, nightly, weekly, and monthly processes](https://support.powerschool.com/article/62796)
 * [How it Works: HTMLT, HTMLR, HTMLE](https://support.powerschool.com/article/73592)
+* [How To Setup a PowerSchool Test Server 8.x and 9.x](https://support.powerschool.com/article/64609)
 
 ## Customizations
 ### Must-Have Customizations
@@ -59,6 +60,5 @@
 * [SIS Resources](http://sisresources.com/)
 
 ## Misc
-* [How To Setup a PowerSchool Test Server 8.x and 9.x](https://support.powerschool.com/article/64609)
 * [PowerSchool 15-16 Data Files (Apple Grove Test Database)](https://support.powerschool.com/dir/8666)
 * [PSUG 2015 National Presentation Materials](https://tinyurl.com/psugdownload)
