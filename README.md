@@ -50,6 +50,7 @@
 
 ## Customizations
 ### Must-Have Customizations
+* [Custom Reports Bundle](http://www.powerdatasolutions.org/content/custom-reports-bundle-base)
 * [Custom Legacy Field Inspector - Extension Migration](https://support.powerschool.com/exchange/view.action?download.id=746)
 
 ### Repositories
