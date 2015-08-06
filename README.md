@@ -17,6 +17,7 @@
 * [How to use the *tests* Data Access Tag](https://support.powerschool.com/article/5982)
 * [If/Then and Decode logic](https://support.powerschool.com/article/6108)
 * [stored.by.course.number](https://support.powerschool.com/article/6373)
+* [period_info](https://support.powerschool.com/article/55134)
 
 ### Data Dictionaries
 * [PowerSchool 9.x Data Dictionaries](https://support.powerschool.com/dir/8778)
