@@ -42,6 +42,9 @@
 * [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
 * [How to enable expanded TLIST commands](https://support.powerschool.com/article/55553)
 
+### PowerQuery
+* [How to join to a subquery in a PowerQuery ](https://groups.yahoo.com/neo/groups/PSUG/conversations/topics/144858;_ylc=X3oDMTM4N3EzdG1pBF9TAzk3MzU5NzE0BGdycElkAzI3OTkzNzAEZ3Jwc3BJZAMxNzA1Njg5MjY3BG1zZ0lkAzE0NDkxMARzZWMDZnRyBHNsawN2dHBjBHN0aW1lAzE0MzkyMTkzNjAEdHBjSWQDMTQ0ODU4)
+
 ### Misc
 * [PowerSchool Glossary](https://support.powerschool.com/article/55076)
 * [Various Student Search Commands](https://support.powerschool.com/article/7671)
