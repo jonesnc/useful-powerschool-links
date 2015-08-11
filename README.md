@@ -28,6 +28,7 @@
 
 ### Executable Commands
 * [Refresh wildcards](https://groups.yahoo.com/neo/groups/PSUG/conversations/messages/125719)
+* [How to enable expanded TLIST commands](https://support.powerschool.com/article/55553)
 
 ### Oracle
 * [Check Which Version Of Oracle Is Installed](https://support.powerschool.com/article/74713)
@@ -43,7 +44,7 @@
 
 ### PSHTML tags
 * [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
-* [How to enable expanded TLIST commands](https://support.powerschool.com/article/55553)
+
 
 ### PowerQuery
 * [How to join to a subquery](https://groups.yahoo.com/neo/groups/PSUG/conversations/messages/144864)
