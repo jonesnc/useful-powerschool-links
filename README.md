@@ -26,6 +26,9 @@
 ### Database Extensions (Extended Schema)
 * [Database Extensions Advanced User Guide for PowerSchool 9.x](https://support.powerschool.com/article/74828)
 
+### Executable Commands
+* [Refresh wildcards](https://groups.yahoo.com/neo/groups/PSUG/conversations/messages/125719)
+
 ### Oracle
 * [Check Which Version Of Oracle Is Installed](https://support.powerschool.com/article/74713)
 * [Importing a Data Pump - File Errors](https://support.powerschool.com/article/57612)
