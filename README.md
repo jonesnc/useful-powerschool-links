@@ -57,6 +57,10 @@
 * [How it Works: HTMLT, HTMLR, HTMLE](https://support.powerschool.com/article/73592)
 * [How To Setup a PowerSchool Test Server 8.x and 9.x](https://support.powerschool.com/article/64609)
 
+## External Documentation
+### Oracle
+* [Tech On The Net](http://www.techonthenet.com/oracle/index.php)
+
 ## Customizations
 ### Must-Have Customizations
 * [Custom Reports Bundle](http://www.powerdatasolutions.org/content/custom-reports-bundle-base)
