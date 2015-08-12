@@ -46,7 +46,6 @@
 ### PSHTML tags
 * [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
 
-
 ### PowerQuery
 * [How to join to a subquery](https://groups.yahoo.com/neo/groups/PSUG/conversations/messages/144864)
 
@@ -61,7 +60,7 @@
 ### Oracle
 * [Tech On The Net](http://www.techonthenet.com/oracle/index.php)
 
-## Customizations
+## Customizations 
 ### Must-Have Customizations
 * [Custom Reports Bundle](http://www.powerdatasolutions.org/content/custom-reports-bundle-base)
 * [Enhanced Parent Portal](http://www.powerdatasolutions.org/content/EPP)
@@ -75,6 +74,10 @@
 * [Phoenix Learning](http://phoenixlearning.com/)
 * [Nicktech](http://nicktech.org/powerschool)
 * [SIS Resources](http://sisresources.com/)
+
+## Useful Tools
+* [Visual PST](http://www.parkbenchsoftware.com/visualpst/index.html)
+* [SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html)
 
 ## Misc
 * [PowerSchool 15-16 Data Files (Apple Grove Test Database)](https://support.powerschool.com/dir/8666)
