@@ -29,7 +29,7 @@
 
 ### Executable Commands
 * [Refresh wildcards](https://groups.yahoo.com/neo/groups/PSUG/conversations/messages/125719)
-* [How to enable expanded TLIST commands](https://support.powerschool.com/article/55553)
+* [Enable expanded TLIST commands](https://support.powerschool.com/article/55553)
 
 ### Oracle
 * [Check Which Version Of Oracle Is Installed](https://support.powerschool.com/article/74713)
