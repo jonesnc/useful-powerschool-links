@@ -60,6 +60,9 @@
 ### Oracle
 * [Tech On The Net](http://www.techonthenet.com/oracle/index.php)
 
+### HTML / CSS / JavaScript
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
+
 ## Customizations 
 ### Must-Have Customizations
 * [Custom Reports Bundle](http://www.powerdatasolutions.org/content/custom-reports-bundle-base)
