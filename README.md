@@ -43,6 +43,9 @@
 * [How to check if Flashback is on](https://support.powerschool.com/d/how_to_check_if_flashback_is_on_oracle)
 * [How to Change Oracle User Account Passwords](https://support.powerschool.com/article/55006)
 
+### Object Reports
+* [Transcript Object](https://support.powerschool.com/dir/1253)
+
 ### PSHTML tags
 * [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
 
