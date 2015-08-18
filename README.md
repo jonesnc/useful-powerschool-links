@@ -45,6 +45,7 @@
 
 ### Object Reports
 * [Transcript Object](https://support.powerschool.com/dir/1253)
+* [How to use an IF tag in an object report](https://groups.yahoo.com/neo/groups/PSUG/conversations/messages/145047)
 
 ### PSHTML tags
 * [PowerSchool HTML Tags](https://support.powerschool.com/article/72592)
