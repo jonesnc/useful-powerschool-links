@@ -12,6 +12,7 @@
 
 ### API
 * [API Docs](https://support.powerschool.com/developer/)
+* [How to setup with a load balancer](https://support.powerschool.com/thread/13504)
 
 ### Data Access Tags
 * [Data Access Tags Supplement for PowerSchool 9.x](https://support.powerschool.com/article/55742)
