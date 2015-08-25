@@ -14,6 +14,9 @@
 * [API Docs](https://support.powerschool.com/developer/)
 * [How to setup with a load balancer](https://support.powerschool.com/thread/13504)
 
+### Attendance
+* [Troubleshooting Attendance (ADA/ADM)](https://support.powerschool.com/article/6182)
+
 ### Data Access Tags
 * [Data Access Tags Supplement for PowerSchool 9.x](https://support.powerschool.com/article/55742)
 * [How to use the *tests* Data Access Tag](https://support.powerschool.com/article/5982)
