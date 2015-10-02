@@ -64,6 +64,7 @@
 * [How it Works: HTMLT, HTMLR, HTMLE](https://support.powerschool.com/article/73592)
 * [How To Setup a PowerSchool Test Server 8.x and 9.x](https://support.powerschool.com/article/64609)
 * [Check the status of schema updates (9.x)](https://support.powerschool.com/article/74648)
+* [Hand-Outs/Guides from psugcal](http://psugcal.wikispaces.com)
 
 ## External Documentation
 ### Oracle
