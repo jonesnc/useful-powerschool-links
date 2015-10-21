@@ -46,6 +46,7 @@
 * [Managing the Flashback retention target](https://support.powerschool.com/d/managing_the_flashback_retention_target)
 * [How to check if Flashback is on](https://support.powerschool.com/d/how_to_check_if_flashback_is_on_oracle)
 * [How to Change Oracle User Account Passwords](https://support.powerschool.com/article/55006)
+* [How to Verify Oracle Backups](https://support.powerschool.com/article/55457)
 
 ### Object Reports
 * [Transcript Object](https://support.powerschool.com/dir/1253)
