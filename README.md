@@ -11,7 +11,7 @@
 * [PowerSchool 9.x Installation and Configuration Guides](https://support.powerschool.com/dir/8779)
 
 ### API
-* [API Docs](https://support.powerschool.com/developer/)
+* [PowerSchool Developer Site](https://support.powerschool.com/developer/)
 * [How to setup with a load balancer](https://support.powerschool.com/thread/13504)
 
 ### Attendance
