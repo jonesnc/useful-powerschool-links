@@ -12,7 +12,7 @@
 
 ### API
 * [PowerSchool Developer Site](https://support.powerschool.com/developer/)
-* [How to setup with a load balancer](https://support.powerschool.com/thread/13504)
+* [How to configure PowerSchool for API access through a load balancer](https://support.powerschool.com/thread/13504)
 
 ### Attendance
 * [Troubleshooting Attendance (ADA/ADM)](https://support.powerschool.com/article/6182)
