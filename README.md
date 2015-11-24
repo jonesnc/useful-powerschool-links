@@ -49,6 +49,7 @@
 * [How to Change Oracle User Account Passwords](https://support.powerschool.com/article/55006)
 * [How to Verify Oracle Backups](https://support.powerschool.com/article/55457)
 * [Check the status of schema updates (9.x)](https://support.powerschool.com/article/74648)
+* [Oracle Backups - Common Issues and Troubleshooting](https://support.powerschool.com/article/75837)
 
 ### Object Reports
 * [Transcript Object](https://support.powerschool.com/dir/1253)
