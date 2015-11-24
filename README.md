@@ -50,6 +50,7 @@
 * [How to Verify Oracle Backups](https://support.powerschool.com/article/55457)
 * [Check the status of schema updates (9.x)](https://support.powerschool.com/article/74648)
 * [Oracle Backups - Common Issues and Troubleshooting](https://support.powerschool.com/article/75837)
+* [Oracle Backups - The Nightly Job](https://support.powerschool.com/article/63441)
 
 ### Object Reports
 * [Transcript Object](https://support.powerschool.com/dir/1253)
