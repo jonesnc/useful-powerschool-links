@@ -62,6 +62,9 @@
 ### PowerQuery
 * [How to join to a subquery](https://groups.yahoo.com/neo/groups/PSUG/conversations/messages/144864)
 
+### State Reporting
+* [User Guides/Release Notes](https://support.powerschool.com/dir/47)
+
 ### Misc
 * [PowerSchool Glossary](https://support.powerschool.com/article/55076)
 * [Various Student Search Commands](https://support.powerschool.com/article/7671)
