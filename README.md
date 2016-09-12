@@ -36,6 +36,9 @@
 * [Refresh wildcards](https://groups.yahoo.com/neo/groups/PSUG/conversations/messages/125719)
 * [Enable expanded TLIST commands](https://support.powerschool.com/article/55553)
 
+### Enterprise Reporting
+* [Initial Report Page Setup](https://support.powerschool.com/post/72323)
+
 ### Logs
 * [PowerSchool-Related Logs and Locations](https://support.powerschool.com/article/powerschoolrelated_logs_and_locations)
 
