@@ -107,6 +107,6 @@
 * [SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html)
 
 ## Misc
-* [PowerSchool 15-16 Data Files (Apple Grove Test Database)](https://support.powerschool.com/dir/8666)
+* [PowerSchool 16-17 Data Files (Apple Grove Test Database)](https://support.powerschool.com/article/77703)
 * [Apple Grove Login Information](https://support.powerschool.com/article/63774)
 * [PSUG 2015 National Presentation Materials](https://tinyurl.com/psugdownload)
