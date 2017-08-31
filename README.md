@@ -108,5 +108,6 @@
 
 ## Misc
 * [PowerSchool 16-17 Data Files (Apple Grove Test Database)](https://support.powerschool.com/article/77703)
+* [PowerSchool 17-18 V2 Data Files (Apple Grove Test Database)](https://support.powerschool.com/article/79414)
 * [Apple Grove Login Information](https://support.powerschool.com/article/63774)
 * [PSUG 2015 National Presentation Materials](https://tinyurl.com/psugdownload)
